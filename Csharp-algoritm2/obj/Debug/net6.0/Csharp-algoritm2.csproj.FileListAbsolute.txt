@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Csharp-algoritm2\Csharp-algoritm2\bin\Debug\net6.0\Csharp-algoritm2.exe
+C:\Users\HP\Desktop\Csharp-algoritm2\Csharp-algoritm2\bin\Debug\net6.0\Csharp-algoritm2.deps.json
+C:\Users\HP\Desktop\Csharp-algoritm2\Csharp-algoritm2\bin\Debug\net6.0\Csharp-algoritm2.runtimeconfig.json
+C:\Users\HP\Desktop\Csharp-algoritm2\Csharp-algoritm2\bin\Debug\net6.0\Csharp-algoritm2.dll
+C:\Users\HP\Desktop\Csharp-algoritm2\Csharp-algoritm2\bin\Debug\net6.0\Csharp-algoritm2.pdb
+C:\Users\HP\Desktop\Csharp-algoritm2\Csharp-algoritm2\obj\Debug\net6.0\Csharp-algoritm2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Csharp-algoritm2\Csharp-algoritm2\obj\Debug\net6.0\Csharp-algoritm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Csharp-algoritm2\Csharp-algoritm2\obj\Debug\net6.0\Csharp-algoritm2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Csharp-algoritm2\Csharp-algoritm2\obj\Debug\net6.0\Csharp-algoritm2.AssemblyInfo.cs
+C:\Users\HP\Desktop\Csharp-algoritm2\Csharp-algoritm2\obj\Debug\net6.0\Csharp-algoritm2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Csharp-algoritm2\Csharp-algoritm2\obj\Debug\net6.0\Csharp-algoritm2.dll
+C:\Users\HP\Desktop\Csharp-algoritm2\Csharp-algoritm2\obj\Debug\net6.0\refint\Csharp-algoritm2.dll
+C:\Users\HP\Desktop\Csharp-algoritm2\Csharp-algoritm2\obj\Debug\net6.0\Csharp-algoritm2.pdb
+C:\Users\HP\Desktop\Csharp-algoritm2\Csharp-algoritm2\obj\Debug\net6.0\Csharp-algoritm2.genruntimeconfig.cache
+C:\Users\HP\Desktop\Csharp-algoritm2\Csharp-algoritm2\obj\Debug\net6.0\ref\Csharp-algoritm2.dll
